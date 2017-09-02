@@ -1,4 +1,5 @@
 #este modelo fue hecho por mishelle
+#esto fue modificado por Carlos
 from django.db import models
 from django.utils import timezone
 
