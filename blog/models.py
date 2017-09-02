@@ -1,3 +1,4 @@
+#este modelo fue hecho por mishelle
 from django.db import models
 from django.utils import timezone
 
